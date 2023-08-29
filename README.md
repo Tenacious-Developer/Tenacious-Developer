@@ -90,24 +90,30 @@
 
 <p>You can check out my recently published blogs on <a href="https://tenacious.hashnode.dev/" target="_blank">HashNode</a></p>
 
-<div align="left">
-  <a href="https://tenacious.hashnode.dev/basics-of-javascript-functions" target="_blank">
-    <img src="https://cdn.hashnode.com/res/hashnode/image/stock/unsplash/cckf4TsHAuw/upload/10b39af28f587044437cfcff2499f235.jpeg?w=1600&h=840&fit=crop&crop=entropy&auto=compress,format&format=webp" height="150" alt="Basics of JavaScript Functions" />
-    <p>Basics of JavaScript Functions</p>
-  </a>
+<div align="center">
+  <div style="display: inline-block; margin-right: 20px;">
+    <a href="https://tenacious.hashnode.dev/basics-of-javascript-functions" target="_blank">
+      <img src="https://cdn.hashnode.com/res/hashnode/image/stock/unsplash/cckf4TsHAuw/upload/10b39af28f587044437cfcff2499f235.jpeg?w=1600&h=840&fit=crop&crop=entropy&auto=compress,format&format=webp" height="150" alt="Basics of JavaScript Functions" />
+      <p>Basics of JavaScript Functions</p>
+    </a>
+  </div>
+  <div style="display: inline-block;">
+    <a href="https://tenacious.hashnode.dev/scoping-hoisting-in-javascript" target="_blank">
+      <img src="https://cdn.hashnode.com/res/hashnode/image/stock/unsplash/qaedPly-Uro/upload/bfe35340b9550fb424374f2247fe58d2.jpeg?w=1600&h=840&fit=crop&crop=entropy&auto=compress,format&format=webp" height="150" alt="Scoping & Hoisting in JavaScript" />
+      <p>Scoping & Hoisting in JavaScript</p>
+    </a>
+  </div>
 </div>
-<div align="left">
-  <a href="https://tenacious.hashnode.dev/scoping-hoisting-in-javascript" target="_blank">
-    <img src="https://cdn.hashnode.com/res/hashnode/image/stock/unsplash/qaedPly-Uro/upload/bfe35340b9550fb424374f2247fe58d2.jpeg?w=1600&h=840&fit=crop&crop=entropy&auto=compress,format&format=webp" height="150" alt="Scoping & Hoisting in JavaScript" />
-    <p>Scoping & Hoisting in JavaScript</p>
-  </a>
+
+<div align="center">
+  <div>
+    <a href="https://tenacious.hashnode.dev/advanced-functions-in-javascript" target="_blank">
+      <img src="https://cdn.hashnode.com/res/hashnode/image/stock/unsplash/gnyA8vd3Otc/upload/994aab99449d30547572e0a4505b9cfe.jpeg?w=1600&h=840&fit=crop&crop=entropy&auto=compress,format&format=webp" height="150" alt="Advanced Functions in JavaScript" />
+      <p>Advanced Functions in JavaScript</p>
+    </a>
+  </div>
 </div>
-<div align="left">
-  <a href="https://tenacious.hashnode.dev/advanced-functions-in-javascript" target="_blank">
-    <img src="https://cdn.hashnode.com/res/hashnode/image/stock/unsplash/gnyA8vd3Otc/upload/994aab99449d30547572e0a4505b9cfe.jpeg?w=1600&h=840&fit=crop&crop=entropy&auto=compress,format&format=webp" height="150" alt="Advanced Functions in JavaScript" />
-    <p>Advanced Functions in JavaScript</p>
-  </a>
-</div>
+
 
 ### 
 
