@@ -86,9 +86,19 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/Tenacious-Developer/Tenacious-Developer/output/snake.svg" alt="Snake animation" />
+<h2 align="left">📝   My Blog Posts :</h2>
 
 ###
+
+<p> You can check out my recently published blogs on HashNode <p>
+
+###
+
+<div align="center">
+  <img src="https://tenacious.hashnode.dev/basics-of-javascript-functions" height="150" alt="stats graph"  />
+  <img src="https://tenacious.hashnode.dev/scoping-hoisting-in-javascript" height="150" alt="languages graph"  />
+  <img src="https://tenacious.hashnode.dev/advanced-functions-in-javascript" height="150" alt="streak graph"  />
+</div>
 
 
 ### ✍️Random Dev Quote
