@@ -86,7 +86,7 @@
 
 ###
 
-<h2 align="left">📝   My Blog Posts :</h2>
+<h2 align="left">📝   My Blog Posts on HashNode</h2>
 
 ###
 
@@ -100,13 +100,13 @@
     Basics of JavaScript Functions
   </a>
 </div>
-<div align="right">
+<div align="left">
   <a href="https://tenacious.hashnode.dev/scoping-hoisting-in-javascript" target="_blank">
     <img src="https://cdn.hashnode.com/res/hashnode/image/stock/unsplash/qaedPly-Uro/upload/bfe35340b9550fb424374f2247fe58d2.jpeg?w=1600&h=840&fit=crop&crop=entropy&auto=compress,format&format=webp" height="150" alt="Scoping & Hoisting in JavaScript" /> <br />
     Scoping & Hoisting in JavaScript
   </a>
 </div>
-<div align="centre">
+<div align="left">
   <a href="https://tenacious.hashnode.dev/advanced-functions-in-javascript" target="_blank">
     <img src="https://cdn.hashnode.com/res/hashnode/image/stock/unsplash/gnyA8vd3Otc/upload/994aab99449d30547572e0a4505b9cfe.jpeg?w=1600&h=840&fit=crop&crop=entropy&auto=compress,format&format=webp" height="150" alt="Advanced Functions in JavaScript" /> <br />
     Advanced Functions in JavaScript
