@@ -95,9 +95,15 @@
 ###
 
 <div align="center">
-  <img src="https://tenacious.hashnode.dev/basics-of-javascript-functions" height="150" alt="stats graph"  />
-  <img src="https://tenacious.hashnode.dev/scoping-hoisting-in-javascript" height="150" alt="languages graph"  />
-  <img src="https://tenacious.hashnode.dev/advanced-functions-in-javascript" height="150" alt="streak graph"  />
+  <a href="https://tenacious.hashnode.dev/basics-of-javascript-functions" target="_blank">
+    <img src="https://cdn.hashnode.com/res/hashnode/image/stock/unsplash/cckf4TsHAuw/upload/10b39af28f587044437cfcff2499f235.jpeg?w=1600&h=840&fit=crop&crop=entropy&auto=compress,format&format=webp" height="150" alt="Basics of JavaScript Functions" />
+  </a>
+  <a href="https://tenacious.hashnode.dev/scoping-hoisting-in-javascript" target="_blank">
+    <img src="https://cdn.hashnode.com/res/hashnode/image/stock/unsplash/qaedPly-Uro/upload/bfe35340b9550fb424374f2247fe58d2.jpeg?w=1600&h=840&fit=crop&crop=entropy&auto=compress,format&format=webp" height="150" alt="Scoping & Hoisting in JavaScript" />
+  </a>
+  <a href="https://tenacious.hashnode.dev/advanced-functions-in-javascript" target="_blank">
+    <img src="https://cdn.hashnode.com/res/hashnode/image/stock/unsplash/gnyA8vd3Otc/upload/994aab99449d30547572e0a4505b9cfe.jpeg?w=1600&h=840&fit=crop&crop=entropy&auto=compress,format&format=webp" height="150" alt="Advanced Functions in JavaScript" />
+  </a>
 </div>
 
 
