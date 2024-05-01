@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://github.com/Tenacious-Developer/Tenacious-Developer/blob/main/Building.png" align="center" style="width: 50%" />
+<img src="https://github.com/Tenacious-Developer/Tenacious-Developer/blob/main/Building.png" align="center" style="width: 100%" />
 </div>  
   
 
@@ -8,7 +8,7 @@
 
 
 
-### About Me  
+## About Me  
 - Specializing in building scalable, innovative software solutions.  
   
 
@@ -25,14 +25,16 @@
 
 
 ## Experience  
-  
+  #### GeeksforGeeks
+- **Member of Technical Staff**
+  - Developing Dynamic Applications
+  - Leading the database team and contributing as a content creator
+  - Specializing in Databases, Database Design, MongoDB, RESTful APIs and GraphQL
 
 <br/>  
 
 
 ## My Skill Set  
-<table><tr><td valign="top" width="33%">
-
 
 
 ### Programming Languages:   
@@ -73,17 +75,7 @@
 
 ### Software Architecture:  
 - MVC, Microservices, Monolithic  
-
-
-</td><td valign="top" width="33%">
-
-
-
-</td><td valign="top" width="33%">
-
-
-
-</td></tr></table>  
+  
 
 <br/>  
 
