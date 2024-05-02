@@ -3,23 +3,7 @@
     <img src="https://github.com/Tenacious-Developer/Tenacious-Developer/blob/main/Building.png" style="width: 100%;" />
   </div>
 </div>
-
-<div align="center">
-  <div style="border-radius: 10px; overflow: hidden; box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2); max-width: 300px;">
-    <img src="https://github.com/Tenacious-Developer/Tenacious-Developer/blob/main/Building.png" style="width: 100%;" />
-    <div id="welcome-text" style="padding: 20px;">
-      <p id="hi" style="animation: fade 1s infinite;">Hi there,</p>
-      <p id="welcome" style="animation: fade 1s infinite;">Welcome to my profile.</p>
-    </div>
-  </div>
-</div>
-
-<style>
-  @keyframes fade {
-    0%, 100% { opacity: 0; }
-    50% { opacity: 1; }
-  }
-</style>
+### <div align="center">👋 Hi there! I'm Vivek Kumar, a seasoned Freelance Software Developer and Member of Technical Staff (MTS) at GeeksforGeeks, India.</div>
 
 ## About Me  
 - Specializing in building scalable, innovative software solutions.  
