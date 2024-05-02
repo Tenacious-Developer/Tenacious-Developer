@@ -49,28 +49,7 @@
 
 <br/>  
 
-
-## Recent Blog Posts  
-
-<div class="container">
-  <div class="card">
-    <a href="https://nextlearn.hashnode.dev/asynchronous-operation-using-callback-promises">
-      <img src="https://cdn.hashnode.com/res/hashnode/image/stock/unsplash/89xuP-XmyrA/upload/3d9cb5bc3d3052f6987a4fc4599d91a3.jpeg?w=400&h=210&fit=crop&crop=entropy&auto=compress,format&format=webp" alt="Article 1">
-    </a>
-    <h3><a href="https://nextlearn.hashnode.dev/asynchronous-operation-using-callback-promises">Asynchronous Operation using Callback & Promises</a></h3>
-  </div>
-  <div class="card">
-    <a href="https://nextlearn.hashnode.dev/javascript-engine-runtime-environment">
-      <img src="https://cdn.hashnode.com/res/hashnode/image/stock/unsplash/5OgJB9CVb68/upload/1bfa6ce2881f548e51942aa6a831ddea.jpeg?w=400&h=210&fit=crop&crop=entropy&auto=compress,format&format=webp" alt="Article 2">
-    </a>
-    <h3><a href="https://nextlearn.hashnode.dev/javascript-engine-runtime-environment">JavaScript Engine & Runtime Environment</a></h3>
-  </div>
-</div>
-
-<br/>  
-
 ## My Skill Set  
-
 
 ### Programming Languages:   
 - Python, JavaScript, TypeScript  
@@ -91,7 +70,26 @@
 - Git & GitHub  
 
 ### Software Architecture:  
-- MVC, Microservices, Monolithic  
+- MVC, Microservices, Monolithic
+
+<br/>  
+
+## Recent Blog Posts  
+
+<div class="container">
+  <div class="card">
+    <a href="https://nextlearn.hashnode.dev/asynchronous-operation-using-callback-promises">
+      <img src="https://cdn.hashnode.com/res/hashnode/image/stock/unsplash/89xuP-XmyrA/upload/3d9cb5bc3d3052f6987a4fc4599d91a3.jpeg?w=400&h=210&fit=crop&crop=entropy&auto=compress,format&format=webp" alt="Article 1">
+    </a>
+    <h3><a href="https://nextlearn.hashnode.dev/asynchronous-operation-using-callback-promises">Asynchronous Operation using Callback & Promises</a></h3>
+  </div>
+  <div class="card">
+    <a href="https://nextlearn.hashnode.dev/javascript-engine-runtime-environment">
+      <img src="https://cdn.hashnode.com/res/hashnode/image/stock/unsplash/5OgJB9CVb68/upload/1bfa6ce2881f548e51942aa6a831ddea.jpeg?w=400&h=210&fit=crop&crop=entropy&auto=compress,format&format=webp" alt="Article 2">
+    </a>
+    <h3><a href="https://nextlearn.hashnode.dev/javascript-engine-runtime-environment">JavaScript Engine & Runtime Environment</a></h3>
+  </div>
+</div>
 
 <br/>  
 
