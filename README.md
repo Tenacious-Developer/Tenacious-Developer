@@ -1,25 +1,14 @@
 <div align="center">
 <img src="https://github.com/Tenacious-Developer/Tenacious-Developer/blob/main/Building.png" align="center" style="width: 100%" />
 </div>  
-  
 
-### <div align="center">👋 Hi there! I'm Vivek, a seasoned Freelance Software Developer and Member of Technical Staff (MTS) at GeeksforGeeks, based in Noida, India.</div>  
-  
+### <div align="center">👋 Hi there! I'm Vivek Kumar, a seasoned Freelance Software Developer and Member of Technical Staff (MTS) at GeeksforGeeks, India.</div>  
 
-
-
-## About Me  
+### About Me  
 - Specializing in building scalable, innovative software solutions.  
-  
-
 - Passionate about pushing the boundaries of technology and solving complex challenges.  
-  
-
 - Actively contributing to the open-source community and collaborating on impactful projects.  
-  
-
 - Offering custom software solutions tailored to meet the unique needs of clients worldwide.  
-  
 
 <br/>  
 
