@@ -1,5 +1,5 @@
 <div align="center">
-  <div style="border-radius: 10px; overflow: hidden; box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2); max-width: 300px;">
+  <div style="border-radius: 20px; overflow: hidden; box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2); max-width: 300px;">
     <img src="https://github.com/Tenacious-Developer/Tenacious-Developer/blob/main/Building.png" style="width: 100%;" />
   </div>
 </div>
