@@ -65,18 +65,6 @@
     </a>
     <h3><a href="https://nextlearn.hashnode.dev/javascript-engine-runtime-environment">JavaScript Engine & Runtime Environment</a></h3>
   </div>
-  <div class="card">
-    <a href="https://nextlearn.hashnode.dev/asynchronous-programming-in-javascript">
-      <img src="https://cdn.hashnode.com/res/hashnode/image/stock/unsplash/vcF5y2Edm6A/upload/a390f8c9ed10865a3b427699c163f05a.jpeg?w=400&h=210&fit=crop&crop=entropy&auto=compress,format&format=webp" alt="Article 3">
-    </a>
-    <h3><a href="https://nextlearn.hashnode.dev/asynchronous-programming-in-javascript">Asynchronous Programming in JavaScript</a></h3>
-  </div>
-  <div class="card">
-    <a href="https://nextlearn.hashnode.dev/advanced-functions-in-javascript">
-      <img src="https://cdn.hashnode.com/res/hashnode/image/stock/unsplash/gnyA8vd3Otc/upload/994aab99449d30547572e0a4505b9cfe.jpeg?w=400&h=210&fit=crop&crop=entropy&auto=compress,format&format=webp" alt="Article 4">
-    </a>
-    <h3><a href="https://nextlearn.hashnode.dev/advanced-functions-in-javascript">Advanced Functions in JavaScript</a></h3>
-  </div>
 </div>
 
 <br/>  
