@@ -1,6 +1,8 @@
 <div align="center">
-<img src="https://github.com/Tenacious-Developer/Tenacious-Developer/blob/main/Building.png" align="center" style="width: 100%" />
-</div>  
+  <div style="border-radius: 10px; overflow: hidden; box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2); max-width: 300px;">
+    <img src="https://github.com/Tenacious-Developer/Tenacious-Developer/blob/main/Building.png" style="width: 100%;" />
+  </div>
+</div>
 
 ### <div align="center">👋 Hi there! I'm Vivek Kumar, a seasoned Freelance Software Developer and Member of Technical Staff (MTS) at GeeksforGeeks, India.</div>  
 
