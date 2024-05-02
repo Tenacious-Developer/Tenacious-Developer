@@ -57,14 +57,14 @@
     <a href="https://nextlearn.hashnode.dev/asynchronous-operation-using-callback-promises">
       <img src="https://cdn.hashnode.com/res/hashnode/image/stock/unsplash/89xuP-XmyrA/upload/3d9cb5bc3d3052f6987a4fc4599d91a3.jpeg?w=400&h=210&fit=crop&crop=entropy&auto=compress,format&format=webp" alt="Article 1">
     </a>
-    <h2><a href="https://nextlearn.hashnode.dev/asynchronous-operation-using-callback-promises">Asynchronous Operation using Callback & Promises</a></h2>
+    <h3><a href="https://nextlearn.hashnode.dev/asynchronous-operation-using-callback-promises">Asynchronous Operation using Callback & Promises</a></h3>
     <p>Asynchronous operations provide a solution, allowing programs to execute tasks without blocking the main thread. This article delves into two widely used approaches for handling asynchronous operations: callbacks and promises.</p>
   </div>
   <div class="card">
     <a href="https://nextlearn.hashnode.dev/javascript-engine-runtime-environment">
       <img src="https://cdn.hashnode.com/res/hashnode/image/stock/unsplash/5OgJB9CVb68/upload/1bfa6ce2881f548e51942aa6a831ddea.jpeg?w=400&h=210&fit=crop&crop=entropy&auto=compress,format&format=webp" alt="Article 2">
     </a>
-    <h2><a href="https://nextlearn.hashnode.dev/javascript-engine-runtime-environment">JavaScript Engine & Runtime Environment</a></h2>
+    <h3><a href="https://nextlearn.hashnode.dev/javascript-engine-runtime-environment">JavaScript Engine & Runtime Environment</a></h3>
     <p>A JavaScript engine is a program that executes JavaScript code by converting it into machine code that the computer can understand and execute.</p>
   </div>
 </div>
@@ -73,14 +73,14 @@
     <a href="https://nextlearn.hashnode.dev/asynchronous-programming-in-javascript">
       <img src="https://cdn.hashnode.com/res/hashnode/image/stock/unsplash/vcF5y2Edm6A/upload/a390f8c9ed10865a3b427699c163f05a.jpeg?w=400&h=210&fit=crop&crop=entropy&auto=compress,format&format=webp" alt="Article 3">
     </a>
-    <h2><a href="https://nextlearn.hashnode.dev/asynchronous-programming-in-javascript">Asynchronous Programming in JavaScript</a></h2>
+    <h3><a href="https://nextlearn.hashnode.dev/asynchronous-programming-in-javascript">Asynchronous Programming in JavaScript</a></h3>
     <p>Asynchronous programming in JavaScript is essential to handle time-consuming tasks and to avoid blocking the main execution thread.</p>
   </div>
   <div class="card">
     <a href="https://nextlearn.hashnode.dev/advanced-functions-in-javascript">
       <img src="https://cdn.hashnode.com/res/hashnode/image/stock/unsplash/gnyA8vd3Otc/upload/994aab99449d30547572e0a4505b9cfe.jpeg?w=400&h=210&fit=crop&crop=entropy&auto=compress,format&format=webp" alt="Article 4">
     </a>
-    <h2><a href="https://nextlearn.hashnode.dev/advanced-functions-in-javascript">Advanced Functions in JavaScript</a></h2>
+    <h3><a href="https://nextlearn.hashnode.dev/advanced-functions-in-javascript">Advanced Functions in JavaScript</a></h3>
     <p>JavaScript's powerful capabilities for handling functions make them first-class citizens in the language.</p>
   </div>
 </div>
