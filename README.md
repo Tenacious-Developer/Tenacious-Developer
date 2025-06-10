@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://github.com/Tenacious-Developer/Tenacious-Developer/blob/main/Building.png" align="center" style="width: 100%" />
+<img src="https://github.com/Tenacious-Developer/Tenacious-Developer/blob/main/Brown%20Transparent%20Minimalist%20Personal%20Profile%20New%20LinkedIn%20Banner%20(1).png" align="center" style="width: 100%" />
 </div> 
 
 ### <div align="center">👋 Hi there! I'm Vivek Kumar, a seasoned Freelance Software Developer and Member of Technical Staff (MTS) at GeeksforGeeks, India.</div>  
