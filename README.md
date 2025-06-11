@@ -2,116 +2,141 @@
 <img src="https://github.com/Tenacious-Developer/Tenacious-Developer/blob/main/Brown%20Transparent%20Minimalist%20Personal%20Profile%20New%20LinkedIn%20Banner%20(1).png" align="center" style="width: 100%" />
 </div> 
 
-### <div align="center">👋 Hi there! I'm Vivek Kumar, a seasoned Freelance Software Developer and Member of Technical Staff (MTS) at GeeksforGeeks, India.</div>  
+### <div align="center">👋 Hi there! I'm Vivek Kumar </div>  
   
+- 👨‍💻 Backend-Focused Software Engineer | System Design Enthusiast | Cloud-Native Developer  
 
-- 👨‍💻 Specializing in building scalable, innovative software solutions.  
-  
+- 🚀 Building scalable architectures, real-time systems, and cloud-ready solutions.
 
-- 🚀 Passionate about pushing the boundaries of technology and solving complex challenges.  
-  
+- 💼 Member of Technical Staff (MTS)-GeeksforGeeks | Open to Remote / Freelance Roles
 
-- 🌱 Actively contributing to the open-source community and collaborating on impactful projects.  
-  
-
-- 💼 Offering custom software solutions tailored to meet the unique needs of clients worldwide.  
+- 🌱 Actively contributing to the open-source community and Open to collaborate on impactful projects.  
 
 <br/> 
 
-## Languages and Tools
+## 🧠 Summary
+
+- 💻 Software Engineer with **3+ years of experience** in backend development and scalable system design.
+- 🧩 Proficient in **API design (REST, GraphQL)** and backend architectures (**MVC, microservices**).
+- ⚙️ Hands-on with **Redis, Kafka, RabbitMQ, BullMQ**, and **secure Docker-based code execution**.
+- ☁️ Experienced in **cloud-native deployments** using **AWS**, **Docker**, and **CI/CD pipelines** (GitHub Actions).
+- 🎯 Product-focused mindset — delivering measurable impact through scalable and maintainable systems.
+
+<br/> 
+
+## 🛠️ Tech Stack
 <div align="center">  
-<a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a>  
-<a href="https://www.typescriptlang.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="50" /></a>  
-<a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" /></a>  
-<a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" /></a>  
-<a href="https://nextjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nextjs.png" alt="NextJS" height="50" /></a>  
-<a href="https://getbootstrap.com/docs/3.4/javascript/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="50" /></a>  
-<a href="https://mui.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mui.png" alt="Material UI" height="50" /></a>  
-<a href="https://www.tailwindcss.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/tailwindcss.svg" alt="Tailwind CSS" height="50" /></a>  
-<a href="https://nodejs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="50" /></a>  
-<a href="https://expressjs.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/express-original-wordmark.svg" alt="Express.js" height="50" /></a>  
-<a href="https://www.mysql.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="50" /></a>  
-<a href="https://www.postgresql.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/postgresql-original-wordmark.svg" alt="PostgreSQL" height="50" /></a>  
-<a href="https://www.mongodb.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" height="50" /></a>  
-<a href="https://graphql.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/graphql.png" alt="GraphQL" height="50" /></a>  
-<a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>  
-<a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" /></a>  
-<a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" /></a>  
+
+**Languages**  
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
+
+**Backend**  
+![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/-Express.js-000000?logo=express&logoColor=white)
+![Fastify](https://img.shields.io/badge/-Fastify-000000?logo=fastify&logoColor=white)
+![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?logo=graphql&logoColor=white)
+![RESTful APIs](https://img.shields.io/badge/-RESTful_API-4CAF50?logo=rest&logoColor=white)
+![Kafka](https://img.shields.io/badge/-Kafka-231F20?logo=apachekafka&logoColor=white)
+![RabbitMQ](https://img.shields.io/badge/-RabbitMQ-FF6600?logo=rabbitmq&logoColor=white)
+
+**Architecture & Patterns**  
+![MVC](https://img.shields.io/badge/-MVC-6DB33F?logo=code&logoColor=white)
+![Microservices](https://img.shields.io/badge/-Microservices-00B8D9?logo=microgen&logoColor=white)
+![Database Design](https://img.shields.io/badge/-Database%20Design-336791?logo=databricks&logoColor=white)
+
+**Database**  
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white)
+![Redis](https://img.shields.io/badge/-Redis-DC382D?logo=redis&logoColor=white)
+![Sequelize](https://img.shields.io/badge/-Sequelize-52B0E7?logo=sequelize&logoColor=white)
+![Mongoose](https://img.shields.io/badge/-Mongoose-880000?logo=mongoose&logoColor=white)
+
+**Infrastructure & DevOps**  
+![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/-GitHub_Actions-2088FF?logo=github-actions&logoColor=white)
+![AWS](https://img.shields.io/badge/-AWS-232F3E?logo=amazonaws&logoColor=white)
+
+**Version Control**  
+![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white)
+
+**Tools**  
+![Postman](https://img.shields.io/badge/-Postman-FF6C37?logo=postman&logoColor=white)
+![Jira](https://img.shields.io/badge/-Jira-0052CC?logo=jira&logoColor=white)
+
 </div>  
 
 <br/>  
 
-## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=Tenacious-Developer&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
+## 🏢 Experience Highlights
 
-<br/>  
+### 💼 Member of Technical Staff – GeeksforGeeks (Apr 2024 – Present)
+- Scaled mentorship platform (Node.js + MongoDB + Redis) to 5K+ users.
+- Modularized backend via **MVC + microservices**, deployed using **CI/CD + Docker**.
+- Reduced latency by 40% via database optimization and indexing.
+- Integrated WebSockets and JWT auth for **real-time quiz portal** upgrades.
+- Engineered **secure, async code execution APIs** using **Docker sandboxing**, **BullMQ**, and **Socket.IO**.
 
-## My Skill Set  
+### 💻 Software Engineer – GeeksforGeeks (Mar 2022 – Apr 2024)
+- Developed a **Next.js-based Quiz Portal** handling 18K+ monthly quiz attempts.
+- Migrated legacy PHP to **SSR-optimized** Next.js — improving load time by 45%.
+- Enhanced SEO, reduced TTI (Time to Interactive), and improved onboarding by 35%.
+- Delivered business impact by collaborating across product, design, and content teams.
 
-### Programming Languages:   
-- Python, JavaScript, TypeScript  
+<br/> 
 
-### Front-End:  
-- React, Next.js, Bootstrap, Material-UI, Tailwind CSS  
+## 🚀 Featured Projects
 
-### Back-End:  
-- Node.js, Express.js  
+### 🔧 [Leetcode Backend](https://github.com/vickykumar7061/Leetcode_Backend)
+Tech: Node.js, TypeScript, Fastify, Docker, Redis, BullMQ  
+- Scalable microservices backend for online coding evaluations.  
+- Built a **secure code execution engine** using Docker containers.  
+- Used BullMQ for **async distributed job processing**, with **WebSocket-based notifications**.
 
-### Databases:  
-- SQL, MySQL, MongoDB, Database Design  
+### ✈️ [Flights-Service (Modular Airline Backend)](https://github.com/vickykumar7061/Flights-Service)
+Tech: Express.js, Sequelize, MySQL, Docker  
+- Modular MVC architecture with service-repo pattern, error handling, Winston logger.  
+- Implemented database seeding, API versioning, and central validation.
 
-### APIs:  
-- REST API, GraphQL, Postman  
+<br/> 
 
-### Version Control:  
-- Git & GitHub  
+## 📊 GitHub Stats
 
-### Software Architecture:  
-- MVC, Microservices, Monolithic
+![Vivek's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Tenacious-Developer&show_icons=true&count_private=true&theme=radical)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Tenacious-Developer&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tenacious-Developer&layout=compact&theme=radical) 
 
-<br/>  
+<br/>
 
 ## Recent Blog Posts  
 
-<div class="container">
-  <div class="card">
-    <a href="https://nextlearn.hashnode.dev/asynchronous-operation-using-callback-promises">
-      <img src="https://cdn.hashnode.com/res/hashnode/image/stock/unsplash/89xuP-XmyrA/upload/3d9cb5bc3d3052f6987a4fc4599d91a3.jpeg?w=400&h=210&fit=crop&crop=entropy&auto=compress,format&format=webp" alt="Article 1">
-    </a>
-    <h3><a href="https://nextlearn.hashnode.dev/asynchronous-operation-using-callback-promises">Asynchronous Operation using Callback & Promises</a></h3>
-  </div>
-  <div class="card">
-    <a href="https://nextlearn.hashnode.dev/javascript-engine-runtime-environment">
-      <img src="https://cdn.hashnode.com/res/hashnode/image/stock/unsplash/5OgJB9CVb68/upload/1bfa6ce2881f548e51942aa6a831ddea.jpeg?w=400&h=210&fit=crop&crop=entropy&auto=compress,format&format=webp" alt="Article 2">
-    </a>
-    <h3><a href="https://nextlearn.hashnode.dev/javascript-engine-runtime-environment">JavaScript Engine & Runtime Environment</a></h3>
-  </div>
-</div>
+- 📖 [Asynchronous Operation using Callback & Promises](https://nextlearn.hashnode.dev/asynchronous-operation-using-callback-promises)
+- 📖 [JavaScript Engine & Runtime Environment](https://nextlearn.hashnode.dev/javascript-engine-runtime-environment)
 
 <br/>  
 
-## Connect with me  
-<div align="center">
-<a href="https://github.com/https://github.com/Tenacious-Developer" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>
-<a href="https://twitter.com/https://twitter.com/VivekKumar87458" target="_blank">
-<img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
-</a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/vivek-kumar-tenacious/" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a>
-<a href="https://hashnode.com/@https://nextlearn.hashnode.dev/" target="_blank">
-<img src=https://img.shields.io/badge/hashnode-%232962FF.svg?&style=for-the-badge&logo=hashnode&logoColor=white alt=hashnode style="margin-bottom: 5px;" />
-</a>  
-</div>  
+## 🏆 Achievements
+
+- 🧠 Solved DSA problems on [**LeetCode**](https://leetcode.com/vickykumar7061)  
+- ✍️ Published technical blogs on [**Hashnode**](https://hashnode.com/@https://nextlearn.hashnode.dev/)
 
 <br/>  
+
+## 🌐 Connect With Me 
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin)](https://linkedin.com/in/vickykumar7061)
+[![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github)](https://github.com/vickykumar7061)
+[![Email](https://img.shields.io/badge/-Email-red?style=flat-square&logo=gmail&logoColor=white)](mailto:vickykumar7061@gmail.com)
+
+<br/> 
 
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=Tenacious-Developer&&style=flat-square" align="center" />
 </div>
 
 <br/>  
+
+> _“Clean code always looks like it was written by someone who cares.” – Robert C. Martin_
 
 ---- 
