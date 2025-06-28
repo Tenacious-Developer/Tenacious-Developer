@@ -72,14 +72,14 @@
 
 ## 🏢 Experience Highlights
 
-### 💼 Member of Technical Staff – GeeksforGeeks (Apr 2024 – Present)
+### 💼 Software Development Engineer (SDE1) – GeeksforGeeks (September 2022 – Present)
 - Scaled mentorship platform (Node.js + MongoDB + Redis) to 5K+ users.
 - Modularized backend via **MVC + microservices**, deployed using **CI/CD + Docker**.
 - Reduced latency by 40% via database optimization and indexing.
 - Integrated WebSockets and JWT auth for **real-time quiz portal** upgrades.
 - Engineered **secure, async code execution APIs** using **Docker sandboxing**, **BullMQ**, and **Socket.IO**.
 
-### 💻 Software Engineer – GeeksforGeeks (Mar 2022 – Apr 2024)
+### 💻 Software Engineer(Internship) – GeeksforGeeks (March 2022 – August 2024)
 - Developed a **Next.js-based Quiz Portal** handling 18K+ monthly quiz attempts.
 - Migrated legacy PHP to **SSR-optimized** Next.js — improving load time by 45%.
 - Enhanced SEO, reduced TTI (Time to Interactive), and improved onboarding by 35%.
