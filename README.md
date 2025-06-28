@@ -8,9 +8,9 @@
 
 - 🚀 Building scalable architectures, real-time systems, and cloud-ready solutions.
 
-- 💼 Member of Technical Staff (MTS)-GeeksforGeeks | Open to Remote / Freelance Roles
+- 💼 Software Development Engineer (SDE1)-GeeksforGeeks | Open to Remote / Freelance Roles
 
-- 🌱 Actively contributing to the open-source community and Open to collaborate on impactful projects.  
+- 🌱 Actively contributing to the open-source community and open to collaborating on impactful projects.  
 
 <br/> 
 
