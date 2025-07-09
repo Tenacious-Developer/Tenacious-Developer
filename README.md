@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://github.com/Tenacious-Developer/Tenacious-Developer/blob/main/Linkedin-cover.png" align="center" style="width: 100%" />
+<img src="https://github.com/Tenacious-Developer/Tenacious-Developer/blob/main/Yellow%20Minimalist%20Digital%20Marketing%20LinkedIn%20Banner%20(3).png" align="center" style="width: 100%" />
 </div> 
 
 ### <div align="center">👋 Hi there! I'm Vivek Kumar </div>  
