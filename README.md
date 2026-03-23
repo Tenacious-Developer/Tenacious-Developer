@@ -1,8 +1,18 @@
 <div align="center">
-<img src="https://github.com/Tenacious-Developer/Tenacious-Developer/blob/main/Yellow%20Minimalist%20Digital%20Marketing%20LinkedIn%20Banner%20(3).png" align="center" style="width: 100%" />
+<img src="https://github.com/Tenacious-Developer/Tenacious-Developer/blob/main/Brown%20Transparent%20Minimalist%20Personal%20Profile%20New%20LinkedIn%20Banner.png" align="center" style="width: 100%" />
 </div> 
 
-### <div align="center">👋 Hi there! I'm Vivek Kumar </div>  
+<div align="center">
+  <h1>Vivek Kumar</h1>
+  <h3>Backend Engineer · Node.js · TypeScript · Go · Distributed Systems</h3>
+  <p>
+    <a href="https://linkedin.com/in/vickykumar7061"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/></a>&nbsp;
+    <a href="mailto:vickykumar7061@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white"/></a>&nbsp;
+    <a href="https://nextlearn.hashnode.dev"><img src="https://img.shields.io/badge/Blog-2962FF?style=flat-square&logo=hashnode&logoColor=white"/></a>&nbsp;
+    <a href="https://leetcode.com/vickykumar7061"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=black"/></a>&nbsp;
+    <img src="https://komarev.com/ghpvc/?username=Tenacious-Developer&style=flat-square&color=0A66C2"/>
+  </p>
+</div>
   
 - 👨‍💻 Backend-Focused Software Engineer | System Design Enthusiast | Cloud-Native Developer  
 
@@ -72,33 +82,48 @@
 
 ## 🏢 Experience Highlights
 
-### 💼 Software Development Engineer (SDE1) – GeeksforGeeks (September 2022 – Present)
-- Scaled mentorship platform (Node.js + MongoDB + Redis) to 5K+ users.
-- Modularized backend via **MVC + microservices**, deployed using **CI/CD + Docker**.
-- Reduced latency by 40% via database optimization and indexing.
-- Integrated WebSockets and JWT auth for **real-time quiz portal** upgrades.
-- Engineered **secure, async code execution APIs** using **Docker sandboxing**, **BullMQ**, and **Socket.IO**.
-
-### 💻 Software Engineer(Internship) – GeeksforGeeks (March 2022 – August 2024)
-- Developed a **Next.js-based Quiz Portal** handling 18K+ monthly quiz attempts.
-- Migrated legacy PHP to **SSR-optimized** Next.js — improving load time by 45%.
-- Enhanced SEO, reduced TTI (Time to Interactive), and improved onboarding by 35%.
-- Delivered business impact by collaborating across product, design, and content teams.
+**Software Development Engineer (SDE1) — GeeksforGeeks** *(Sept 2022 – Present)*
+- Solved race conditions in booking flow using **Redis distributed locking + idempotency keys**
+- Cut API response time **40%** by resolving N+1 queries and redesigning database indexes (500+ RPS)
+- Built **Docker-sandboxed code execution engine** with BullMQ async queues for 10,000+ learners
+- Built async **email notification pipeline** (Nodemailer + BullMQ) with DLQ for 15,000+ users
+- Scaled **Mentorship Platform** to 5,000+ users with JWT auth, RBAC, and Redis session caching
+- Reduced deployment complexity **30%** via Docker containerisation + GitHub Actions CI/CD
+ 
+**Software Development Engineer Intern — GeeksforGeeks** *(Mar 2022 – Aug 2022)*
+- Built Next.js Quiz Portal — grew monthly attempts to **18,000+** (40% uplift)
+- Migrated 60+ PHP pages to Next.js SSR — **45% load time reduction**
+- Implemented JWT auth flows — grew monthly onboarding to **12,000+** (35% growth)
 
 <br/> 
 
 ## 🚀 Featured Projects
-
-### 🔧 [Leetcode Backend](https://github.com/vickykumar7061/Leetcode_Backend)
-Tech: Node.js, TypeScript, Fastify, Docker, Redis, BullMQ  
-- Scalable microservices backend for online coding evaluations.  
-- Built a **secure code execution engine** using Docker containers.  
-- Used BullMQ for **async distributed job processing**, with **WebSocket-based notifications**.
-
-### ✈️ [Flights-Service (Modular Airline Backend)](https://github.com/vickykumar7061/Flights-Service)
-Tech: Express.js, Sequelize, MySQL, Docker  
-- Modular MVC architecture with service-repo pattern, error handling, Winston logger.  
-- Implemented database seeding, API versioning, and central validation.
+ 
+### [Airbnb Backend — Microservices Architecture](https://github.com/Tenacious-Developer/Airbnb_Backend_Microservices_Architecture)
+> Node.js · TypeScript · Go · MySQL · Redis · BullMQ · JWT · GitHub Actions
+ 
+Production-grade hotel booking backend solving real distributed systems problems:
+ 
+| Problem | Solution |
+|---|---|
+| Double-booking under concurrency | Redis read-lock distributed locking + idempotency keys |
+| Polyglot service design | Auth + Review in Go, Booking + Listing in Node.js/TypeScript |
+| Async notifications | Redis + BullMQ queues with DLQ and exponential backoff retry |
+| Service routing | Reverse proxy API gateway with JWT validation |
+| DB versioning | Migration system with schema versioning across services |
+| Room availability | Cron scheduler for automated availability seeding |
+ 
+---
+ 
+### [LeetCode Backend Clone](https://github.com/Tenacious-Developer/Leetcode_Backend_Coding)
+> Node.js · TypeScript · Fastify · MongoDB · Redis · BullMQ · Docker · Socket.IO
+ 
+| Engineering Problem | Solution |
+|---|---|
+| Safe code execution | Docker container sandboxing — 100% user code isolation |
+| Concurrent job processing | BullMQ + Redis queues — 5K+ concurrent executions, 2x throughput |
+| Real-time result delivery | Socket.IO WebSocket channels — 95% submissions under 3 seconds |
+| Scalable submission handling | Microservices — problems, submissions, execution, notifications |
 
 <br/> 
 
