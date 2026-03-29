@@ -128,10 +128,10 @@ Production-grade hotel booking backend solving real distributed systems problems
 <br/> 
 
 ## 📊 GitHub Stats
-
-![Vivek's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Tenacious-Developer&show_icons=true&count_private=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Tenacious-Developer&show_icons=true&count_private=true&theme=radical&hide_border=true&v=1)
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Tenacious-Developer&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tenacious-Developer&layout=compact&theme=radical) 
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Tenacious-Developer&theme=react-dark&hide_border=true&v=1)
 
 <br/>
 
