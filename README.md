@@ -8,8 +8,8 @@
   <p>
     <a href="https://www.linkedin.com/in/vivek-kumar-tenacious/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/></a>&nbsp;
     <a href="mailto:vickykumar7061@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white"/></a>&nbsp;
-    <a href="https://nextlearn.hashnode.dev"><img src="https://img.shields.io/badge/Blog-2962FF?style=flat-square&logo=hashnode&logoColor=white"/></a>&nbsp;
-    <a href="https://hashnode.com/@TenaciousDeveloper"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=black"/></a>&nbsp;
+    <a href="https://hashnode.com/@TenaciousDeveloper"><img src="https://img.shields.io/badge/Blog-2962FF?style=flat-square&logo=hashnode&logoColor=white"/></a>&nbsp;
+    <a href="https://leetcode.com/u/Tenacious_Developer/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=black"/></a>&nbsp;
     <img src="https://komarev.com/ghpvc/?username=Tenacious-Developer&style=flat-square&color=0A66C2"/>
   </p>
 </div>
@@ -139,20 +139,6 @@ Production-grade hotel booking backend solving real distributed systems problems
 
 - 📖 [Asynchronous Operation using Callback & Promises](https://nextlearn.hashnode.dev/asynchronous-operation-using-callback-promises)
 - 📖 [JavaScript Engine & Runtime Environment](https://nextlearn.hashnode.dev/javascript-engine-runtime-environment)
-
-<br/>  
-
-## 🏆 Achievements
-
-- 🧠 Solved DSA problems on [**LeetCode**](https://leetcode.com/vickykumar7061)  
-- ✍️ Published technical blogs on [**Hashnode**](https://hashnode.com/@https://nextlearn.hashnode.dev/)
-
-<br/>  
-
-## 🌐 Connect With Me 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin)](https://linkedin.com/in/vickykumar7061)
-[![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github)](https://github.com/vickykumar7061)
-[![Email](https://img.shields.io/badge/-Email-red?style=flat-square&logo=gmail&logoColor=white)](mailto:vickykumar7061@gmail.com)
 
 <br/> 
 
