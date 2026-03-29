@@ -6,10 +6,10 @@
   <h1>Vivek Kumar</h1>
   <h3>Backend Engineer · Node.js · TypeScript · Go · Distributed Systems</h3>
   <p>
-    <a href="https://linkedin.com/in/vickykumar7061"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/></a>&nbsp;
+    <a href="https://www.linkedin.com/in/vivek-kumar-tenacious/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/></a>&nbsp;
     <a href="mailto:vickykumar7061@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white"/></a>&nbsp;
     <a href="https://nextlearn.hashnode.dev"><img src="https://img.shields.io/badge/Blog-2962FF?style=flat-square&logo=hashnode&logoColor=white"/></a>&nbsp;
-    <a href="https://leetcode.com/vickykumar7061"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=black"/></a>&nbsp;
+    <a href="https://hashnode.com/@TenaciousDeveloper"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=black"/></a>&nbsp;
     <img src="https://komarev.com/ghpvc/?username=Tenacious-Developer&style=flat-square&color=0A66C2"/>
   </p>
 </div>
