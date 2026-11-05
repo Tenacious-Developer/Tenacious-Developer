@@ -152,79 +152,148 @@ A Go REST API built with a focus on clean architecture, explicit database operat
 
 ---
 
-## Technical Toolkit
+## 🛠️ Technical Toolkit
 
-**AI & LLM Engineering**
+Technologies and tools I use to design, build, deploy, and operate reliable software and AI-powered systems.
 
-Python · LangChain · OpenAI API · Anthropic API · RAG · Agentic Workflows · Hybrid Search · pgvector · BM25 · Pinecone · FAISS · RAGAS · Langfuse · promptfoo
+### 🧠 AI & LLM Engineering
 
-**Programming Languages**
+<p align="center">
+  <img src="https://img.shields.io/badge/LLM_Applications-412991?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Agentic_AI-6C47FF?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/RAG-1677C8?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Hybrid_Search-087E8B?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/LLM_Evaluation-7952B3?style=for-the-badge" />
+</p>
 
-TypeScript · Go · Python · JavaScript
+<p align="center">
+  <img src="https://img.shields.io/badge/OpenAI_API-412991?style=flat-square" />
+  <img src="https://img.shields.io/badge/Anthropic_API-D97757?style=flat-square" />
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square" />
+  <img src="https://img.shields.io/badge/pgvector-336791?style=flat-square" />
+  <img src="https://img.shields.io/badge/BM25-087E8B?style=flat-square" />
+  <img src="https://img.shields.io/badge/Pinecone-000000?style=flat-square" />
+  <img src="https://img.shields.io/badge/FAISS-0467DF?style=flat-square" />
+  <img src="https://img.shields.io/badge/RAGAS-7952B3?style=flat-square" />
+  <img src="https://img.shields.io/badge/Langfuse-111111?style=flat-square" />
+  <img src="https://img.shields.io/badge/promptfoo-5B46E8?style=flat-square" />
+</p>
 
-**Backend Engineering**
+### 💻 Programming Languages
 
-Node.js · Express.js · NestJS · Fastify · GraphQL · REST APIs
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=ts,js,go,py&theme=dark&perline=4" />
+</p>
 
-**Distributed Systems & Messaging**
+### ⚙️ Backend & API Engineering
 
-Redis · Kafka · RabbitMQ · BullMQ · Microservices · Event-Driven Architecture · Distributed Locking · Idempotency
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,graphql&theme=dark&perline=4" />
+</p>
 
-**Databases**
+### 🗄️ Databases & Storage
 
-PostgreSQL · MySQL · MongoDB
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis&theme=dark&perline=4" />
+</p>
 
-**Cloud & Infrastructure**
+### 🔄 Distributed Systems & Messaging
 
-AWS · Docker · GitHub Actions · CI/CD · Kubernetes
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=kafka,rabbitmq&theme=dark&perline=2" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/BullMQ-E34F26?style=flat-square" />
+  <img src="https://img.shields.io/badge/Microservices-2563EB?style=flat-square" />
+  <img src="https://img.shields.io/badge/Event--Driven_Architecture-0D9488?style=flat-square" />
+</p>
+
+### ☁️ Cloud, DevOps & Infrastructure
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=aws,azure,docker,kubernetes,githubactions&theme=dark&perline=5" />
+</p>
+
+### 🧪 Developer Tools & Testing
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,jest&theme=dark&perline=5" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Prisma-2D3748?style=flat-square" />
+  <img src="https://img.shields.io/badge/Sequelize-52B0E7?style=flat-square" />
+  <img src="https://img.shields.io/badge/CI%2FCD-2088FF?style=flat-square" />
+</p>
 
 ---
 
-## GitHub Engineering Activity
+
+## 📊 GitHub Engineering Activity
 
 ### GitHub Overview
 
 <div align="center">
-
-  <a href="https://github.com/Tenacious-Developer">
-    <img height="180" src="https://github-readme-stats.vercel.app/api?username=Tenacious-Developer&show_icons=true&include_all_commits=true&theme=github_dark&hide_border=true&rank_icon=github" alt="GitHub Statistics" />
-  </a>
-  <a href="https://github.com/Tenacious-Developer?tab=repositories">
-    <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tenacious-Developer&layout=compact&langs_count=8&theme=github_dark&hide_border=true" alt="Top Programming Languages" />
-  </a>
-
-</div>
-
-### Contribution Streak
-
-<div align="center">
-
-  <a href="https://github.com/Tenacious-Developer">
-    <img src="https://streak-stats.demolab.com/?user=Tenacious-Developer&theme=dark&hide_border=true&timezone=Asia%2FKolkata" width="70%" alt="GitHub Contribution Streak" />
-  </a>
-
-</div>
-
-### Contribution Activity Graph
-
-<div align="center">
-
-  <a href="https://github.com/Ashutosh00710/github-readme-activity-graph">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Tenacious-Developer&theme=github-compact&hide_border=true&area=true" width="100%" alt="GitHub Activity Graph" />
-  </a>
-
-</div>
-
-### Contribution Calendar
-
-<div align="center">
-
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Tenacious-Developer/Tenacious-Developer/output/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Tenacious-Developer/Tenacious-Developer/output/github-snake.svg" />
-    <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/Tenacious-Developer/Tenacious-Developer/output/github-snake.svg" width="100%" />
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="./assets/overview.dark.svg"
+    />
+    <img
+      src="./assets/overview.light.svg"
+      width="100%"
+      alt="GitHub Engineering Overview"
+    />
   </picture>
+</div>
 
+### Contribution Activity & Momentum
+
+<div align="center">
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="./assets/momentum.dark.svg"
+    />
+    <img
+      src="./assets/momentum.light.svg"
+      width="100%"
+      alt="GitHub Contribution Momentum"
+    />
+  </picture>
+</div>
+
+### Contribution Calendar & Streak
+
+<div align="center">
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="./assets/contributions.dark.svg"
+    />
+    <img
+      src="./assets/contributions.light.svg"
+      width="100%"
+      alt="GitHub Contribution Calendar and Streak"
+    />
+  </picture>
+</div>
+
+### Programming Language Distribution
+
+<div align="center">
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="./assets/languages.dark.svg"
+    />
+    <img
+      src="./assets/languages.light.svg"
+      width="100%"
+      alt="Programming Language Distribution"
+    />
+  </picture>
 </div>
 
 <div align="center">
@@ -241,9 +310,9 @@ AWS · Docker · GitHub Actions · CI/CD · Kubernetes
 
 ## Engineering Principles
 
-- **Correctness before optimization:** Get consistency, transactions and failure handling right before optimizing throughput.
+- **Correctness before optimization:** Get consistency, transactions, and failure handling right before optimizing throughput.
 - **Design for failure:** Account for timeouts, retries, duplicate requests, partial failures and recovery.
-- **Measure before optimizing:** Use query analysis, latency metrics and system behaviour to guide performance improvements.
+- **Measure before optimizing:** Use query analysis, latency metrics, and system behaviour to guide performance improvements.
 - **Build with clear boundaries:** Prefer maintainable components, explicit contracts and documented architectural decisions.
 - **Learn by building:** Turn engineering concepts into working implementations and document the trade-offs.
 
@@ -251,7 +320,7 @@ AWS · Docker · GitHub Actions · CI/CD · Kubernetes
 
 ## Writing & Knowledge Sharing
 
-I write about backend engineering, system design, distributed systems and applied AI.
+I write about backend engineering, system design, distributed systems, and applied AI.
 
 - [LinkedIn — Technical Notes & Engineering Insights](https://www.linkedin.com/in/vivek-kumar-tenacious/)
 - [Hashnode — Technical Articles](https://hashnode.com/@TenaciousDeveloper)
@@ -260,7 +329,7 @@ I write about backend engineering, system design, distributed systems and applie
 
 <div align="center">
 
-  <h3>Build → Measure → Break → Understand → Improve</h3>
+  <h3>Build Fast → Break Fast → Fix Fast → Learn Fast</h3>
 
   <em>Tenacious Developer</em>
 
