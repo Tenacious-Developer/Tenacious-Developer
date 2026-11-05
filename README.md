@@ -1,153 +1,267 @@
-<div align="center">
-<img src="https://github.com/Tenacious-Developer/Tenacious-Developer/blob/main/Brown%20Transparent%20Minimalist%20Personal%20Profile%20New%20LinkedIn%20Banner.png" align="center" style="width: 100%" />
-</div> 
 
 <div align="center">
+
   <h1>Vivek Kumar</h1>
-  <h3>Backend Engineer · Node.js · TypeScript · Go · Distributed Systems</h3>
+  <h3>AI Engineer | Applied AI · Backend Systems · Infrastructure</h3>
+
   <p>
-    <a href="https://www.linkedin.com/in/vivek-kumar-tenacious/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/></a>&nbsp;
-    <a href="mailto:vickykumar7061@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white"/></a>&nbsp;
-    <a href="https://hashnode.com/@TenaciousDeveloper"><img src="https://img.shields.io/badge/Blog-2962FF?style=flat-square&logo=hashnode&logoColor=white"/></a>&nbsp;
-    <a href="https://leetcode.com/u/Tenacious_Developer/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=black"/></a>&nbsp;
-    <img src="https://komarev.com/ghpvc/?username=Tenacious-Developer&style=flat-square&color=0A66C2"/>
+    Building reliable AI-powered products — from application architecture and backend systems to intelligent workflows.
   </p>
+
+  <a href="https://www.linkedin.com/in/vivek-kumar-tenacious/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:vickykumar7061@gmail.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://hashnode.com/@TenaciousDeveloper">
+    <img src="https://img.shields.io/badge/Blog-2962FF?style=flat-square&logo=hashnode&logoColor=white" />
+  </a>
+  <a href="https://leetcode.com/u/Tenacious_Developer/">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=black" />
+  </a>
+  <a href="https://github.com/Tenacious-Developer">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" />
+  </a>
+
 </div>
-  
-- 👨‍💻 Backend-Focused Software Engineer | System Design Enthusiast | Cloud-Native Developer  
 
-- 🚀 Building scalable architectures, real-time systems, and cloud-ready solutions.
-
-- 💼 Software Development Engineer (SDE1)-GeeksforGeeks | Open to Remote / Freelance Roles
-
-- 🌱 Actively contributing to the open-source community and open to collaborating on impactful projects.  
-
-<br/> 
-
-## 🧠 Summary
-
-- 💻 Software Engineer with **3+ years of experience** in backend development and scalable system design.
-- 🧩 Proficient in **API design (REST, GraphQL)** and backend architectures (**MVC, microservices**).
-- ⚙️ Hands-on with **Redis, Kafka, RabbitMQ, BullMQ**, and **secure Docker-based code execution**.
-- ☁️ Experienced in **cloud-native deployments** using **AWS**, **Docker**, and **CI/CD pipelines** (GitHub Actions).
-- 🎯 Product-focused mindset — delivering measurable impact through scalable and maintainable systems.
-
-<br/> 
-
-## 🛠️ Tech Stack
-<div align="center">  
-
-**Languages**  
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
-
-**Backend**  
-![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/-Express.js-000000?logo=express&logoColor=white)
-![Fastify](https://img.shields.io/badge/-Fastify-000000?logo=fastify&logoColor=white)
-![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?logo=graphql&logoColor=white)
-![RESTful APIs](https://img.shields.io/badge/-RESTful_API-4CAF50?logo=rest&logoColor=white)
-![Kafka](https://img.shields.io/badge/-Kafka-231F20?logo=apachekafka&logoColor=white)
-![RabbitMQ](https://img.shields.io/badge/-RabbitMQ-FF6600?logo=rabbitmq&logoColor=white)
-
-**Architecture & Patterns**  
-![MVC](https://img.shields.io/badge/-MVC-6DB33F?logo=code&logoColor=white)
-![Microservices](https://img.shields.io/badge/-Microservices-00B8D9?logo=microgen&logoColor=white)
-![Database Design](https://img.shields.io/badge/-Database%20Design-336791?logo=databricks&logoColor=white)
-
-**Database**  
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white)
-![Redis](https://img.shields.io/badge/-Redis-DC382D?logo=redis&logoColor=white)
-![Sequelize](https://img.shields.io/badge/-Sequelize-52B0E7?logo=sequelize&logoColor=white)
-![Mongoose](https://img.shields.io/badge/-Mongoose-880000?logo=mongoose&logoColor=white)
-
-**Infrastructure & DevOps**  
-![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/-GitHub_Actions-2088FF?logo=github-actions&logoColor=white)
-![AWS](https://img.shields.io/badge/-AWS-232F3E?logo=amazonaws&logoColor=white)
-
-**Version Control**  
-![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white)
-
-**Tools**  
-![Postman](https://img.shields.io/badge/-Postman-FF6C37?logo=postman&logoColor=white)
-![Jira](https://img.shields.io/badge/-Jira-0052CC?logo=jira&logoColor=white)
-
-</div>  
-
-<br/>  
-
-## 🏢 Experience Highlights
-
-**Software Development Engineer (SDE1) — GeeksforGeeks** *(Sept 2022 – Present)*
-- Solved race conditions in booking flow using **Redis distributed locking + idempotency keys**
-- Cut API response time **40%** by resolving N+1 queries and redesigning database indexes (500+ RPS)
-- Built **Docker-sandboxed code execution engine** with BullMQ async queues for 10,000+ learners
-- Built async **email notification pipeline** (Nodemailer + BullMQ) with DLQ for 15,000+ users
-- Scaled **Mentorship Platform** to 5,000+ users with JWT auth, RBAC, and Redis session caching
-- Reduced deployment complexity **30%** via Docker containerisation + GitHub Actions CI/CD
- 
-**Software Development Engineer Intern — GeeksforGeeks** *(Mar 2022 – Aug 2022)*
-- Built Next.js Quiz Portal — grew monthly attempts to **18,000+** (40% uplift)
-- Migrated 60+ PHP pages to Next.js SSR — **45% load time reduction**
-- Implemented JWT auth flows — grew monthly onboarding to **12,000+** (35% growth)
-
-<br/> 
-
-## 🚀 Featured Projects
- 
-### [Airbnb Backend — Microservices Architecture](https://github.com/Tenacious-Developer/Airbnb_Backend_Microservices_Architecture)
-> Node.js · TypeScript · Go · MySQL · Redis · BullMQ · JWT · GitHub Actions
- 
-Production-grade hotel booking backend solving real distributed systems problems:
- 
-| Problem | Solution |
-|---|---|
-| Double-booking under concurrency | Redis read-lock distributed locking + idempotency keys |
-| Polyglot service design | Auth + Review in Go, Booking + Listing in Node.js/TypeScript |
-| Async notifications | Redis + BullMQ queues with DLQ and exponential backoff retry |
-| Service routing | Reverse proxy API gateway with JWT validation |
-| DB versioning | Migration system with schema versioning across services |
-| Room availability | Cron scheduler for automated availability seeding |
- 
 ---
- 
-### [LeetCode Backend Clone](https://github.com/Tenacious-Developer/Leetcode_Backend_Coding)
-> Node.js · TypeScript · Fastify · MongoDB · Redis · BullMQ · Docker · Socket.IO
- 
-| Engineering Problem | Solution |
+
+## About Me
+
+I'm an **AI Engineer at Adnolgy**, building AI-powered products across product engineering, backend architecture, infrastructure, and applied AI.
+
+I bring 4+ years of software engineering experience, primarily in backend development and distributed systems.
+
+My approach to AI engineering is grounded in a simple idea:
+
+**Building an AI demo is easy. Engineering a system that remains reliable when things fail is the real challenge.**
+
+I work at the application engineering layer — integrating existing models into useful products and building the systems around them.
+
+My interests include:
+
+- Agentic AI and intelligent workflows
+- Large Language Model applications
+- Retrieval-Augmented Generation (RAG)
+- LLM evaluation and observability
+- AI application infrastructure
+- Backend architecture and distributed systems
+- System design and performance engineering
+
+I care about the engineering details behind the product: concurrency, consistency, timeouts, retries, idempotency, observability, latency, and cost.
+
+> AI systems have new failure modes. They also inherited all the old ones.
+
+---
+
+## Engineering Focus
+
+| Domain | Areas of Interest |
 |---|---|
-| Safe code execution | Docker container sandboxing — 100% user code isolation |
-| Concurrent job processing | BullMQ + Redis queues — 5K+ concurrent executions, 2x throughput |
-| Real-time result delivery | Socket.IO WebSocket channels — 95% submissions under 3 seconds |
-| Scalable submission handling | Microservices — problems, submissions, execution, notifications |
+| Applied AI | LLM applications, tool calling, agentic workflows, structured outputs |
+| RAG & Evaluation | Hybrid retrieval, vector search, BM25, reranking, RAGAS |
+| Backend Engineering | APIs, microservices, database design, domain boundaries |
+| Distributed Systems | Concurrency, distributed locking, messaging, idempotency |
+| AI Infrastructure | Model integration, tracing, evaluation pipelines, reliability |
+| System Design | Scalability, availability, consistency, architecture trade-offs |
 
-<br/> 
+---
 
-## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Tenacious-Developer&show_icons=true&count_private=true&theme=radical&hide_border=true&v=1)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Tenacious-Developer&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tenacious-Developer&layout=compact&theme=radical) 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Tenacious-Developer&theme=react-dark&hide_border=true&v=1)
+## Selected Engineering Projects
 
-<br/>
+Projects where I focus on architecture, implementation details, and engineering trade-offs.
 
-## Recent Blog Posts  
+### 1. Airline Booking System — HLD + Runnable LLD
 
-- 📖 [Asynchronous Operation using Callback & Promises](https://nextlearn.hashnode.dev/asynchronous-operation-using-callback-promises)
-- 📖 [JavaScript Engine & Runtime Environment](https://nextlearn.hashnode.dev/javascript-engine-runtime-environment)
+[Repository](https://github.com/Tenacious-Developer/Airline-Booking-System-Design-HLD-LLD)
 
-<br/> 
+A system design and runnable implementation of an airline booking platform, with particular emphasis on correctness under concurrent bookings.
+
+**Engineering problems explored:**
+
+- CQRS and read-optimized flight search.
+- Transactional seat reservations using PostgreSQL row-level locking.
+- Seat holds and idempotency keys.
+- Asynchronous payment processing using the Saga pattern.
+- Compensation and seat release when payment fails.
+- Concurrency testing: two users compete for the last available seat; exactly one succeeds.
+
+**Stack:** TypeScript · Node.js · PostgreSQL · System Design
+
+### 2. Airbnb Backend — Distributed Microservices
+
+[Repository](https://github.com/Tenacious-Developer/Airbnb_Backend_Microservices_Architecture)
+
+A distributed backend architecture demonstrating independently deployable services and service-level ownership.
+
+**Engineering problems explored:**
+
+- Five microservices with independent business responsibilities and databases.
+- Go-based API Gateway with authentication, authorization and rate limiting.
+- JWT, RBAC and identity propagation across service boundaries.
+- Redis distributed locking for inventory coordination.
+- BullMQ-based asynchronous notification processing.
+- Retry handling, service communication and database query optimization.
+
+**Stack:** Go · Node.js · TypeScript · Redis · BullMQ · MySQL · Prisma · Sequelize
+
+### 3. TaskFlow — Go Backend API
+
+[Repository](https://github.com/Tenacious-Developer/taskflow-vivek-kumar)
+
+A Go REST API built with a focus on clean architecture, explicit database operations and maintainability.
+
+**Engineering problems explored:**
+
+- Handler → Service → Repository architecture.
+- Interface-based dependency injection.
+- PostgreSQL schema design and versioned migrations.
+- Transactional updates using SELECT FOR UPDATE.
+- Compound indexes for filtered database queries.
+- Dockerized local development and automated tests.
+
+**Stack:** Go · PostgreSQL · sqlx · Docker · REST API
+
+---
+
+## Professional Experience
+
+### AI Engineer — Adnolgy
+*October 2026 – Present*
+
+- Building AI-powered products across product scope, backend architecture, infrastructure and AI integration.
+- Working on applied AI engineering and product development.
+- Training engineers in practical AI engineering workflows and development practices.
+
+### Software Development Engineer I — GeeksforGeeks
+*September 2022 – September 2026*
+
+- Built Docker-sandboxed code execution workflows using BullMQ queues, supporting 10,000+ learners.
+- Addressed booking race conditions using Redis distributed locking and idempotency keys.
+- Reduced API latency by **40%** through N+1 query elimination and database index redesign, at 500+ RPS.
+- Developed asynchronous notification processing with dead-letter queues and exponential backoff, supporting 15,000+ users.
+- Contributed to a mentorship platform serving 5,000+ concurrent users.
+
+### Software Development Engineer Intern — GeeksforGeeks
+*March 2022 – August 2022*
+
+- Improved a Next.js quiz portal to 18,000+ monthly attempts, representing 40% growth.
+- Migrated 60+ PHP pages to Next.js SSR, reducing page load time by 45%.
+
+---
+
+## Technical Toolkit
+
+**AI & LLM Engineering**
+
+Python · LangChain · OpenAI API · Anthropic API · RAG · Agentic Workflows · Hybrid Search · pgvector · BM25 · Pinecone · FAISS · RAGAS · Langfuse · promptfoo
+
+**Programming Languages**
+
+TypeScript · Go · Python · JavaScript
+
+**Backend Engineering**
+
+Node.js · Express.js · NestJS · Fastify · GraphQL · REST APIs
+
+**Distributed Systems & Messaging**
+
+Redis · Kafka · RabbitMQ · BullMQ · Microservices · Event-Driven Architecture · Distributed Locking · Idempotency
+
+**Databases**
+
+PostgreSQL · MySQL · MongoDB
+
+**Cloud & Infrastructure**
+
+AWS · Docker · GitHub Actions · CI/CD · Kubernetes
+
+---
+
+## GitHub Engineering Activity
+
+### GitHub Overview
 
 <div align="center">
-<img src="https://komarev.com/ghpvc/?username=Tenacious-Developer&&style=flat-square" align="center" />
+
+  <a href="https://github.com/Tenacious-Developer">
+    <img height="180" src="https://github-readme-stats.vercel.app/api?username=Tenacious-Developer&show_icons=true&include_all_commits=true&theme=github_dark&hide_border=true&rank_icon=github" alt="GitHub Statistics" />
+  </a>
+  <a href="https://github.com/Tenacious-Developer?tab=repositories">
+    <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tenacious-Developer&layout=compact&langs_count=8&theme=github_dark&hide_border=true" alt="Top Programming Languages" />
+  </a>
+
 </div>
 
-<br/>  
+### Contribution Streak
 
-> _“Clean code always looks like it was written by someone who cares.” – Robert C. Martin_
+<div align="center">
 
----- 
+  <a href="https://github.com/Tenacious-Developer">
+    <img src="https://streak-stats.demolab.com/?user=Tenacious-Developer&theme=dark&hide_border=true&timezone=Asia%2FKolkata" width="70%" alt="GitHub Contribution Streak" />
+  </a>
+
+</div>
+
+### Contribution Activity Graph
+
+<div align="center">
+
+  <a href="https://github.com/Ashutosh00710/github-readme-activity-graph">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Tenacious-Developer&theme=github-compact&hide_border=true&area=true" width="100%" alt="GitHub Activity Graph" />
+  </a>
+
+</div>
+
+### Contribution Calendar
+
+<div align="center">
+
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Tenacious-Developer/Tenacious-Developer/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Tenacious-Developer/Tenacious-Developer/output/github-snake.svg" />
+    <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/Tenacious-Developer/Tenacious-Developer/output/github-snake.svg" width="100%" />
+  </picture>
+
+</div>
+
+<div align="center">
+
+  <a href="https://github.com/Tenacious-Developer?tab=repositories">Explore Repositories</a>
+  ·
+  <a href="https://github.com/Tenacious-Developer?tab=activity">Recent Activity</a>
+  ·
+  <a href="https://github.com/Tenacious-Developer">GitHub Profile</a>
+
+</div>
+
+---
+
+## Engineering Principles
+
+- **Correctness before optimization:** Get consistency, transactions and failure handling right before optimizing throughput.
+- **Design for failure:** Account for timeouts, retries, duplicate requests, partial failures and recovery.
+- **Measure before optimizing:** Use query analysis, latency metrics and system behaviour to guide performance improvements.
+- **Build with clear boundaries:** Prefer maintainable components, explicit contracts and documented architectural decisions.
+- **Learn by building:** Turn engineering concepts into working implementations and document the trade-offs.
+
+---
+
+## Writing & Knowledge Sharing
+
+I write about backend engineering, system design, distributed systems and applied AI.
+
+- [LinkedIn — Technical Notes & Engineering Insights](https://www.linkedin.com/in/vivek-kumar-tenacious/)
+- [Hashnode — Technical Articles](https://hashnode.com/@TenaciousDeveloper)
+
+---
+
+<div align="center">
+
+  <h3>Build → Measure → Break → Understand → Improve</h3>
+
+  <em>Tenacious Developer</em>
+
+</div>
